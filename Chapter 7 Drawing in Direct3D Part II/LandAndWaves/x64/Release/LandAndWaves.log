@@ -1,0 +1,13 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  LandAndWavesApp.cpp
+  Waves.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1779 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LandAndWaves.vcxproj -> E:\d3d12book_projects\Chapter 7 Drawing in Direct3D Part II\LandAndWaves\x64\Release\LandAndWaves.exe

@@ -9,6 +9,7 @@ struct ObjectConstants
     DirectX::XMFLOAT4X4 World = MathHelper::Identity4x4();
 };
 
+// for pass constants includ eye positions and render targets, and camera params
 struct PassConstants
 {
     DirectX::XMFLOAT4X4 View = MathHelper::Identity4x4();
